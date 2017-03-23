@@ -1,0 +1,26 @@
+{
+    "gatewayApp": {
+        "demo" : {
+            "home": {
+                "title": "Demos",
+                "createLabel": "Maak een nieuwe Demo",
+                "createOrEditLabel": "Maak of wijzig een Demo"
+            },
+            "delete": {
+                "question": "Bent u zeker dat u Demo {{ id }} wilt verwijderen?"
+            },
+            "detail": {
+                "title": "Demo"
+            },
+            "name": "Name",
+            "email": "Email"
+        }
+    },
+    "boardgamesApp": {
+        "demo" : {
+            "created": "A new Demo is created with identifier {{ param }}",
+            "updated": "A Demo is updated with identifier {{ param }}",
+            "deleted": "A Demo is deleted with identifier {{ param }}"
+        }
+    }
+}

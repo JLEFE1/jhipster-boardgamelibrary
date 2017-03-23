@@ -1,0 +1,14 @@
+{
+    "gamer": {
+        "home": {
+            "title": "Gamer",
+            "username": "Username",
+            "email": "Email"
+        },
+        "table": {
+            "username": "Username",
+            "email": "Email"
+        }
+    }
+
+}

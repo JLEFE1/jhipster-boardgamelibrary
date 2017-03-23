@@ -1,0 +1,3 @@
+uuid;username;password;role;first_name;last_name;email;mobile;street;number;box;zipcode;city;active;creation_date;modification_date
+a9e93994-b118-4177-b5fb-cff522f130c1;jorislefever;$2a$04$NjRKqevoj8CbSEFj1I1IkOGBnWq3Lxy19mirR9gv7TuDajRsC3jqG;ADMIN;Joris;Lefever;joris.lefever@gmail.com;0032400112233;Steenweg;3;NULL;3000;Leuven;TRUE;2016-10-28 00:00:00.000;2016-10-28 00:00:00.000
+e862d678-40da-49c3-a84e-b4e4f1a91f28;anscheers;$2a$04$NjRKqevoj8CbSEFj1I1IkOGBnWq3Lxy19mirR9gv7TuDajRsC3jqG;ADMIN;An;Scheers;an.scheers@gmail.com;0032400112233;Steenweg;3;NULL;3000;Leuven;TRUE;2016-10-28 00:00:00.000;2016-10-28 00:00:00.000
