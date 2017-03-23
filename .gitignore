@@ -47,5 +47,5 @@ fabric.properties
 
 # Files added by project contributors
 .idea/
-src/
-target/
+/src/
+/target/
