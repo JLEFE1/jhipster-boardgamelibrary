@@ -1,0 +1,435 @@
+{
+    "termsofuse": "http://boardgamegeek.com/xmlapi/termsofuse",
+    "type": "boardgame",
+    "id": "72125",
+    "thumbnail": "//cf.geekdoimages.com/images/pic1974056_t.jpg",
+    "image": "//cf.geekdoimages.com/images/pic1974056.jpg",
+    "name": [
+        {
+            "type": "primary",
+            "sortindex": "1",
+            "value": "Eclipse"
+        },
+        {
+            "type": "alternate",
+            "sortindex": "1",
+            "value": "星蚀"
+        }
+    ],
+    "description": "The galaxy has been a peaceful place for many years. After the ruthless Terran&ndash;Hegemony War (30.027&ndash;33.364), much effort has been employed by all major spacefaring species to prevent the terrifying events from repeating themselves. The Galactic Council was formed to enforce precious peace, and it has taken many courageous efforts to prevent the escalation of malicious acts. Nevertheless, tension and discord are growing among the seven major species and in the Council itself. Old alliances are shattering, and hasty diplomatic treaties are made in secrecy. A confrontation of the superpowers seems inevitable &ndash; only the outcome of the galactic conflict remains to be seen. Which faction will emerge victorious and lead the galaxy under its rule?&#10;&#10;A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You will explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.&#10;&#10;The shadows of the great civilizations are about to eclipse the galaxy. Lead your people to victory!&#10;&#10;",
+    "yearpublished": { "value": "2011" },
+    "minplayers": { "value": "2" },
+    "maxplayers": { "value": "6" },
+    "poll": [
+        {
+            "name": "suggested_numplayers",
+            "title": "User Suggested Number of Players",
+            "totalvotes": "514",
+            "results": [
+                {
+                    "numplayers": "1",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "2"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "15"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "263"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "2",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "30"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "224"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "138"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "3",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "71"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "300"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "43"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "4",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "356"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "104"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "6"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "5",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "110"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "246"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "58"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "6",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "231"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "136"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "42"
+                        }
+                    ]
+                },
+                {
+                    "numplayers": "6+",
+                    "result": [
+                        {
+                            "value": "Best",
+                            "numvotes": "9"
+                        },
+                        {
+                            "value": "Recommended",
+                            "numvotes": "28"
+                        },
+                        {
+                            "value": "Not Recommended",
+                            "numvotes": "165"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "suggested_playerage",
+            "title": "User Suggested Player Age",
+            "totalvotes": "155",
+            "results": {
+                "result": [
+                    {
+                        "value": "2",
+                        "numvotes": "1"
+                    },
+                    {
+                        "value": "3",
+                        "numvotes": "0"
+                    },
+                    {
+                        "value": "4",
+                        "numvotes": "0"
+                    },
+                    {
+                        "value": "5",
+                        "numvotes": "0"
+                    },
+                    {
+                        "value": "6",
+                        "numvotes": "1"
+                    },
+                    {
+                        "value": "8",
+                        "numvotes": "6"
+                    },
+                    {
+                        "value": "10",
+                        "numvotes": "19"
+                    },
+                    {
+                        "value": "12",
+                        "numvotes": "59"
+                    },
+                    {
+                        "value": "14",
+                        "numvotes": "55"
+                    },
+                    {
+                        "value": "16",
+                        "numvotes": "14"
+                    },
+                    {
+                        "value": "18",
+                        "numvotes": "0"
+                    },
+                    {
+                        "value": "21 and up",
+                        "numvotes": "0"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "language_dependence",
+            "title": "Language Dependence",
+            "totalvotes": "191",
+            "results": {
+                "result": [
+                    {
+                        "level": "1",
+                        "value": "No necessary ingame text",
+                        "numvotes": "127"
+                    },
+                    {
+                        "level": "2",
+                        "value": "Some necessary text  easily memorized or small crib sheet",
+                        "numvotes": "56"
+                    },
+                    {
+                        "level": "3",
+                        "value": "Moderate ingame text  needs crib sheet or paste ups",
+                        "numvotes": "6"
+                    },
+                    {
+                        "level": "4",
+                        "value": "Extensive use of text  massive conversion needed to be playable",
+                        "numvotes": "0"
+                    },
+                    {
+                        "level": "5",
+                        "value": "Unplayable in another language",
+                        "numvotes": "2"
+                    }
+                ]
+            }
+        }
+    ],
+    "playingtime": { "value": "200" },
+    "minplaytime": { "value": "60" },
+    "maxplaytime": { "value": "200" },
+    "minage": { "value": "14" },
+    "link": [
+        {
+            "type": "boardgamecategory",
+            "id": "1015",
+            "value": "Civilization"
+        },
+        {
+            "type": "boardgamecategory",
+            "id": "1046",
+            "value": "Fighting"
+        },
+        {
+            "type": "boardgamecategory",
+            "id": "1016",
+            "value": "Science Fiction"
+        },
+        {
+            "type": "boardgamecategory",
+            "id": "1113",
+            "value": "Space Exploration"
+        },
+        {
+            "type": "boardgamecategory",
+            "id": "1019",
+            "value": "Wargame"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2080",
+            "value": "Area Control / Area Influence"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2072",
+            "value": "Dice Rolling"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2676",
+            "value": "Grid Movement"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2011",
+            "value": "Modular Board"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2685",
+            "value": "Player Elimination"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2002",
+            "value": "Tile Placement"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2079",
+            "value": "Variable Phase Order"
+        },
+        {
+            "type": "boardgamemechanic",
+            "id": "2015",
+            "value": "Variable Player Powers"
+        },
+        {
+            "type": "boardgamefamily",
+            "id": "12210",
+            "value": "4X games"
+        },
+        {
+            "type": "boardgamefamily",
+            "id": "21459",
+            "value": "Eclipse"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "217786",
+            "value": "Eclipse:  Anticipation of the Elders"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "184256",
+            "value": "Eclipse: Black Hole"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "136155",
+            "value": "Eclipse: Elders of the Solstice"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "190742",
+            "value": "Eclipse: Gift of the Elders"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "152898",
+            "value": "Eclipse: Minions of the Solstice"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "154785",
+            "value": "Eclipse: Nebula"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "131415",
+            "value": "Eclipse: Pulsar"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "125898",
+            "value": "Eclipse: Rise of the Ancients"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "133967",
+            "value": "Eclipse: Rise of the Ancients – The Tractor Beam"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "135838",
+            "value": "Eclipse: Rockets of Celebration"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "179255",
+            "value": "Eclipse: Shadow of the Rift"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "146690",
+            "value": "Eclipse: Ship Pack One"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "104746",
+            "value": "Eclipse: Supernova"
+        },
+        {
+            "type": "boardgameexpansion",
+            "id": "171114",
+            "value": "Eclipse: The Galactic North"
+        },
+        {
+            "type": "boardgamedesigner",
+            "id": "13000",
+            "value": "Touko Tahkokallio"
+        },
+        {
+            "type": "boardgameartist",
+            "id": "19023",
+            "value": "Ossi Hiekkala"
+        },
+        {
+            "type": "boardgameartist",
+            "id": "32143",
+            "value": "Sampo Sikiö"
+        },
+        {
+            "type": "boardgamepublisher",
+            "id": "3218",
+            "value": "Lautapelit.fi"
+        },
+        {
+            "type": "boardgamepublisher",
+            "id": "157",
+            "value": "Asmodee"
+        },
+        {
+            "type": "boardgamepublisher",
+            "id": "15889",
+            "value": "Asterion Press"
+        },
+        {
+            "type": "boardgamepublisher",
+            "id": "7466",
+            "value": "REBEL.pl"
+        },
+        {
+            "type": "boardgamepublisher",
+            "id": "2861",
+            "value": "Ystari Games"
+        }
+    ]
+
+}
+
